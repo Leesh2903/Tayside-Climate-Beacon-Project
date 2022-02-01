@@ -3,9 +3,9 @@
 
 Group Members :
 
-Benjamin Aarhus 
-Lee Shaw 
-Alex Brodie 
-Hafsa	Ugase
-Aadam Shaik 
+Benjamin Aarhus, 
+Lee Shaw,
+Alex Brodie,
+Hafsa	Ugase,
+Aadam Shaik, 
 Almontsir	Madjid
